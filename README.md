@@ -219,8 +219,8 @@ If you found this walkthrough helpful, insightful, or even mildly entertaining �
 🚀 Also, if you haven’t yet — **check out VulnOS** and try the **Legacy Lab** for yourself: <br/>
 🔗 [https://vulnos.tech](VulnOS.tech)
 
-🗿 Until next time,
-**Hack smart, stay curious, and always read the README.**
-— *Aditya Bhatt*
+🗿 Until next time, <br/>
+**Hack smart, stay curious, and always read the README.** <br/>
+~ *Aditya Bhatt* <br/>
 
 ---
