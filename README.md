@@ -191,10 +191,10 @@ flag{LEGACY_SYSTEM_COMPROMISED_EXCELLENT_WORK}
 
 **Legacy** is more than just an “easy” lab — it’s a reminder that **pentesting is about process**. Each chapter teaches something important:
 
-✅ Use Nmap *intelligently*
-✅ Trust enumeration tools, but trust your eyes more
-✅ Credentials don’t always mean immediate victory — they’re only step one
-✅ Privilege escalation isn’t magic — it’s methodical
+✅ Use Nmap *intelligently* <br/>
+✅ Trust enumeration tools, but trust your eyes more <br/>
+✅ Credentials don’t always mean immediate victory — they’re only step one <br/>
+✅ Privilege escalation isn’t magic — it’s methodical <br/>
 
 > 🗿 “Read the hints. Use your brain. Google the weird stuff. That’s the way.”
 
