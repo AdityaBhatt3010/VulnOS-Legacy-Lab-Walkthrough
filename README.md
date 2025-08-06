@@ -212,11 +212,11 @@ If you found this walkthrough helpful, insightful, or even mildly entertaining �
 * 🧠 **CTF writeups** & real-world labs
 * ⚙️ **Open-source tools** & scripts
 
-📍 **LinkedIn**: [linkedin.com/in/aditya-bhatt3010](https://linkedin.com/in/aditya-bhatt3010)
-📍 **Medium**: [medium.com/@adityabhatt3010](https://medium.com/@adityabhatt3010)
-📍 **GitHub**: [github.com/AdityaBhatt3010](https://github.com/AdityaBhatt3010)
+📍 **LinkedIn**: [linkedin.com/in/aditya-bhatt3010](https://linkedin.com/in/aditya-bhatt3010) <br/>
+📍 **Medium**: [medium.com/@adityabhatt3010](https://medium.com/@adityabhatt3010) <br/>
+📍 **GitHub**: [github.com/AdityaBhatt3010](https://github.com/AdityaBhatt3010) <br/>
 
-🚀 Also, if you haven’t yet — **check out VulnOS** and try the **Legacy Lab** for yourself:
+🚀 Also, if you haven’t yet — **check out VulnOS** and try the **Legacy Lab** for yourself: <br/>
 🔗 [https://vulnos.tech](VulnOS.tech)
 
 🗿 Until next time,
